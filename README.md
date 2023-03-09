@@ -35,7 +35,7 @@ predictive model.
 20) euribor3m: euribor 3 month rate - daily indicator (numeric)
 21) nr.employed: number of employees - quarterly indicator (numeric)
 
-#Output variable (desired target):
+# Output variable (desired target):
 
 22) y: has the client subscribed a term deposit? (binary: "yes","no")
 

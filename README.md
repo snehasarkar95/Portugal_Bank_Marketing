@@ -43,15 +43,15 @@ predictive model.
 
 1. Finding what does the primary analysis of several categorical features reveal.
 2. Exploratory Data Analysis:
-    a. Missing Value Analysis
-    b. Label Encoding wherever required
-    c. Selecting important features based on Random Forest
-    d. Handling unbalanced data using SMOTE
-    e. Standardize the data using the anyone of the scalers provided by sklearn
+    * Missing Value Analysis
+    * Label Encoding wherever required
+    * Selecting important features based on Random Forest
+    * Handling unbalanced data using SMOTE
+    * Standardize the data using the anyone of the scalers provided by sklearn
 3. Supervised Learning models:
-    a. Logistic Regression
-    b. AdaBoost
-    c. Naïve Bayes
-    d. KNN
-    e. SVM
+    * Logistic Regression
+    * AdaBoost
+    * Naïve Bayes
+    * KNN
+    * SVM
 4. Tabulating the performance metrics of all the above models to determine which model performs better in predicting if the client will subscribe to term deposit or not.
